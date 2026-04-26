@@ -1,0 +1,4 @@
+﻿  НачалоString.cpp
+C:\Users\Lenovo\source\repos\НачалоString\НачалоString\НачалоString.cpp(87,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Lenovo\source\repos\НачалоString\НачалоString\НачалоString.cpp(162,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  НачалоString.vcxproj -> C:\Users\Lenovo\source\repos\НачалоString\x64\Debug\НачалоString.exe
